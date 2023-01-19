@@ -4,6 +4,12 @@ repo: System-Status-Monitor
 sites:
   - name: Deschutes Design Group LLC
     url: https://www.deschutesdesigngroup.com
+  - name: Community Forums
+    url: https://community.deschutesdesigngroup.com
+  - name: Support Desk
+    url: https://support.deschutesdesigngroup.com
+  - name: Client Control Panel
+    url: https://solutions.deschutesdesigngroup.com
   - name: PERSCOM
     url: https://perscom.io
 

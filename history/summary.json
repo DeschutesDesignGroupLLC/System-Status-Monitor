@@ -1,5 +1,23 @@
 [
   {
+    "name": "Deschutes Design Group LLC",
+    "url": "https://www.deschutesdesigngroup.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.deschutesdesigngroup.com.ico",
+    "slug": "deschutes-design-group-llc",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 534,
+    "timeDay": 534,
+    "timeWeek": 534,
+    "timeMonth": 534,
+    "timeYear": 534,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "PERSCOM",
     "url": "https://perscom.io",
     "icon": "https://icons.duckduckgo.com/ip3/perscom.io.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 234,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   }
 ]

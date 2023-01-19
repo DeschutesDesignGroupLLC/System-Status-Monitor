@@ -1,7 +1,9 @@
 owner: DeschutesDesignGroupLLC
-repo: PERSCOM-3.0-Status
+repo: System-Status-Monitor
 
 sites:
+  - name: Deschutes Design Group LLC
+    url: https://www.deschutesdesigngroup.com
   - name: PERSCOM
     url: https://perscom.io
 
@@ -11,7 +13,7 @@ assignees:
 status-website:
   cname: status.perscom.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: PERSCOM System Status
+  name: Deschutes Design Group LLC System Status
   navbar:
     - title: Status
       href: /

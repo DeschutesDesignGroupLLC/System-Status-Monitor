@@ -2,7 +2,7 @@ owner: DeschutesDesignGroupLLC
 repo: System-Status-Monitor
 
 sites:
-  - name: Deschutes Design Group LLC
+  - name: Website
     url: https://www.deschutesdesigngroup.com
   - name: Community Forums
     url: https://community.deschutesdesigngroup.com
@@ -10,8 +10,8 @@ sites:
     url: https://support.deschutesdesigngroup.com/hc/en-us
   - name: Client Control Panel
     url: https://solutions.deschutesdesigngroup.com
-  - name: PERSCOM
-    url: https://perscom.io
+  - name: Authentication Services
+    url: https://solutions.deschutesdesigngroup.com
 
 assignees:
   - JonErickson

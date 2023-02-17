@@ -4,36 +4,40 @@
     "url": "https://www.deschutesdesigngroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.deschutesdesigngroup.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 594,
-    "timeWeek": 530,
-    "timeMonth": 568,
-    "timeYear": 568,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 394,
+    "timeWeek": 488,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {
+      "2023-02-17": 0
+    }
   },
   {
     "name": "Community Forums",
     "url": "https://community.deschutesdesigngroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.deschutesdesigngroup.com.ico",
     "slug": "community-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 548,
-    "timeWeek": 516,
-    "timeMonth": 519,
-    "timeYear": 519,
-    "dailyMinutesDown": {}
+    "time": 506,
+    "timeDay": 314,
+    "timeWeek": 461,
+    "timeMonth": 506,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2023-02-17": 0
+    }
   },
   {
     "name": "Support Desk",
@@ -52,7 +56,7 @@
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-02-17": 11,
+      "2023-02-17": 405,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
@@ -89,35 +93,39 @@
     "url": "https://solutions.deschutesdesigngroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/solutions.deschutesdesigngroup.com.ico",
     "slug": "client-control-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 674,
-    "timeWeek": 659,
-    "timeMonth": 916,
-    "timeYear": 916,
-    "dailyMinutesDown": {}
+    "time": 890,
+    "timeDay": 357,
+    "timeWeek": 582,
+    "timeMonth": 890,
+    "timeYear": 890,
+    "dailyMinutesDown": {
+      "2023-02-17": 0
+    }
   },
   {
     "name": "Authentication Services",
     "url": "https://solutions.deschutesdesigngroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/solutions.deschutesdesigngroup.com.ico",
     "slug": "authentication-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 691,
-    "timeWeek": 586,
-    "timeMonth": 653,
-    "timeYear": 653,
-    "dailyMinutesDown": {}
+    "time": 633,
+    "timeDay": 370,
+    "timeWeek": 519,
+    "timeMonth": 633,
+    "timeYear": 633,
+    "dailyMinutesDown": {
+      "2023-02-17": 0
+    }
   }
 ]
